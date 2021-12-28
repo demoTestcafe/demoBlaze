@@ -1,0 +1,12 @@
+[
+    {
+        "username": "Pablo",
+        "password": "123456",
+        "name": "Pedro",
+        "country": "Chile",
+        "city": "Santiago",
+        "card": "22115468",
+        "month": "December",
+        "year": "2021"
+    }
+  ]
